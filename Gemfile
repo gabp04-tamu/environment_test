@@ -62,5 +62,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'concurrent-ruby', '1.3.4'
+gem "concurrent-ruby", "1.3.4"
 
